@@ -6,6 +6,9 @@ This is a repository of my favorite wallpapers.
 Here are some of the websites or communities where I found the wallpapers:
 - [Reddit - r/unixporn](https://www.reddit.com/r/unixporn/)
 - [Pinterest](https://www.pinterest.com/)
+- https://github.com/dharmx/walls
+- https://gitlab.com/dwt1/wallpapers
+- https://github.com/JoydeepMallick/Wallpapers
 
 ## 🖼️ Preview
 <img src="Wallpapers/56.jpg">
