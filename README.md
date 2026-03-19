@@ -19,4 +19,4 @@ Here are some of the websites or communities where I found the wallpapers:
 <img src="Wallpapers/8.jpg">
 <img src="Wallpapers/kita.png">
 <img src="Wallpapers/Yoru_Ai.jfif">
-<img src="Wallpapers/wallpaper_4k_precise_Breakfast on a grass, Bato Dugarzhapov">
+<img src="Wallpapers/wallpaper_4k_precise_Breakfast on a grass, Bato Dugarzhapov.png">
